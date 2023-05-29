@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Portfolio</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link></link>
+	<description>Portfolio Website</description>
+	<lastBuildDate>Thu, 25 May 2023 14:11:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2023/05/letter-a-logo-2427416-removebg-preview-1.png</url>
+	<title>Portfolio</title>
+	<link></link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Weather App using React JS</title>
+		<link>/weather-app-using-react-js/</link>
+					<comments>/weather-app-using-react-js/#respond</comments>
+		
+		<dc:creator><![CDATA[Abhishek]]></dc:creator>
+		<pubDate>Thu, 25 May 2023 13:27:32 +0000</pubDate>
+				<category><![CDATA[React JS]]></category>
+		<guid isPermaLink="false">/?p=674</guid>
+
+					<description><![CDATA[The React.js Weather App is a dynamic web application that provides users with up-to-date weather information for a specific location. Built using React.js and integrated with an API (such as OpenWeatherMap), it offers a user-friendly interface to retrieve and display real-time weather data. The Weather App consists of several components that work together to create &#8230;<p class="read-more"> <a class="" href="/weather-app-using-react-js/"> <span class="screen-reader-text">Weather App using React JS</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="674" class="elementor elementor-674">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-e312535 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e312535" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-728d7b7" data-id="728d7b7" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2d5d262 elementor-widget elementor-widget-text-editor" data-id="2d5d262" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.13.3 - 22-05-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p>The React.js Weather App is a dynamic web application that provides users with up-to-date weather information for a specific location. Built using React.js and integrated with an API (such as OpenWeatherMap), it offers a user-friendly interface to retrieve and display real-time weather data.</p><p>The Weather App consists of several components that work together to create a seamless experience. The main component is the WeatherWidget, which serves as the central hub for displaying weather information. It includes input fields for users to enter the desired location and a button to trigger the weather data retrieval.</p><p>When a user enters a location and clicks the &#8220;Get Weather&#8221; button, the WeatherWidget component communicates with the API to fetch weather data specific to that location. This integration allows the app to access data such as temperature, humidity, wind speed, and weather conditions.</p><p>Upon receiving the API response, the WeatherWidget component updates its state with the retrieved weather data. It dynamically renders the information, presenting the current temperature, weather conditions, and other relevant details in a visually appealing manner.</p><p>To enhance the user experience, the Weather App can incorporate additional features. For instance, it may display weather icons representing different weather conditions or include a forecast section to provide a multi-day weather outlook.</p><p>The React Weather App demonstrates the power of React&#8217;s component-based architecture in combination with API integration. By leveraging React&#8217;s state management capabilities, the app efficiently fetches and updates weather data, offering users an interactive and responsive interface to stay informed about current weather conditions in their desired location.</p><p> </p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7561c1e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7561c1e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3b9f437" data-id="3b9f437" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-29de8d8 elementor-align-center elementor-widget elementor-widget-button" data-id="29de8d8" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://weather-app-7bf05.web.app/" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-grow" role="button">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="fas fa-play"></i>			</span>
+						<span class="elementor-button-text">live preview</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/weather-app-using-react-js/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>To-do list using React JS</title>
+		<link>/to-do-list-using-react-js/</link>
+					<comments>/to-do-list-using-react-js/#respond</comments>
+		
+		<dc:creator><![CDATA[Abhishek]]></dc:creator>
+		<pubDate>Thu, 25 May 2023 13:19:23 +0000</pubDate>
+				<category><![CDATA[React JS]]></category>
+		<guid isPermaLink="false">/?p=668</guid>
+
+					<description><![CDATA[The React.js To-Do List is a web application that helps users organize and manage their tasks effectively. It utilizes the React library to build a dynamic and interactive user interface. The To-Do List app consists of several key components that work together seamlessly. The main component is the TaskList component, which displays the list of &#8230;<p class="read-more"> <a class="" href="/to-do-list-using-react-js/"> <span class="screen-reader-text">To-do list using React JS</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="668" class="elementor elementor-668">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-e097e5f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e097e5f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-89551e1" data-id="89551e1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-89bfbbd elementor-widget elementor-widget-text-editor" data-id="89bfbbd" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="background-color: var(--ast-global-color-5); color: var(--ast-global-color-3); font-style: inherit; font-weight: inherit;">The React.js To-Do List is a web application that helps users organize and manage their tasks effectively. It utilizes the React library to build a dynamic and interactive user interface.</span></p><p><span style="font-style: inherit; font-weight: inherit; background-color: var(--ast-global-color-5); color: var(--ast-global-color-3);">The To-Do List app consists of several key components that work together seamlessly. The main component is the TaskList component, which displays the list of tasks. Each task is represented by a Task component, consisting of a checkbox to mark completion and a description of the task itself.</span></p><p><span style="font-style: inherit; font-weight: inherit; background-color: var(--ast-global-color-5); color: var(--ast-global-color-3);">Users can add new tasks by entering a description in the input field provided and pressing the &#8220;+&#8221; i.e, Add task button. This action triggers the creation of a new Task component and updates the list of tasks dynamically using React&#8217;s state management.</span></p><p><span style="font-style: inherit; font-weight: inherit; background-color: var(--ast-global-color-5); color: var(--ast-global-color-3);">The TaskList component also allows users to mark tasks as completed by toggling the checkbox associated with each task. When a task is marked as complete, it visually reflects the change by applying a strike-through effect to the task description.</span></p><p><span style="font-style: inherit; font-weight: inherit; background-color: var(--ast-global-color-5); color: var(--ast-global-color-3);">Additionally, users can remove tasks from the list by clicking on a delete button or icon associated with each task. This action triggers the removal of the corresponding Task component, updating the task list accordingly.</span></p><p><span style="font-style: inherit; font-weight: inherit; background-color: var(--ast-global-color-5); color: var(--ast-global-color-3);">The React To-Do List app showcases the power and simplicity of React&#8217;s virtual DOM rendering and component-based architecture. It provides users with a user-friendly and efficient interface to keep track of their tasks, add new ones, mark them as complete, and remove completed or unnecessary tasks.</span></p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-23ef048 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="23ef048" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1a4b8d6" data-id="1a4b8d6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f2208d9 elementor-align-center elementor-widget elementor-widget-button" data-id="f2208d9" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://to-do-list-761ce.web.app/" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-grow" role="button">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="fas fa-play"></i>			</span>
+						<span class="elementor-button-text">Live preview</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/to-do-list-using-react-js/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Restaurant Menu App using React JS</title>
+		<link>/restaurant-menu-app-using-react-js/</link>
+					<comments>/restaurant-menu-app-using-react-js/#respond</comments>
+		
+		<dc:creator><![CDATA[Abhishek]]></dc:creator>
+		<pubDate>Thu, 25 May 2023 13:01:45 +0000</pubDate>
+				<category><![CDATA[React JS]]></category>
+		<guid isPermaLink="false">/?p=661</guid>
+
+					<description><![CDATA[The React Menu App is a simple web application that allows users to view a menu and add items to their cart. It&#8217;s built using React and utilizes basic hooks, such as useState, to manage the application&#8217;s state. The app consists of the Menu component which displays a list of menu items, including their names &#8230;<p class="read-more"> <a class="" href="/restaurant-menu-app-using-react-js/"> <span class="screen-reader-text">Restaurant Menu App using React JS</span> Read More &#187;</a></p>]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="661" class="elementor elementor-661">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-2fdfd19 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2fdfd19" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f4cf83e" data-id="f4cf83e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-65781ed elementor-widget elementor-widget-text-editor" data-id="65781ed" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="font-style: inherit; font-weight: inherit; background-color: var(--ast-global-color-5); color: var(--ast-global-color-3);">The React Menu App is a simple web application that allows users to view a menu and add items to their cart. It&#8217;s built using React and utilizes basic hooks, such as useState, to manage the application&#8217;s state.</span></p>
+<p>The app consists of the Menu component which displays a list of menu items, including their names and prices.</p>
+<p><span style="font-style: inherit; font-weight: inherit; background-color: var(--ast-global-color-5); color: var(--ast-global-color-3);">The React Menu App provides a straightforward and intuitive interface for users to browse a menu and manage their cart. It showcases the use of basic hooks in React to handle state management and demonstrates the flexibility and simplicity of React&#8217;s component-based architecture.</span></p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2f07bfc elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2f07bfc" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f3d17a6" data-id="f3d17a6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-255b933 elementor-align-center elementor-widget elementor-widget-button" data-id="255b933" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://rest-481a8.web.app/" class="elementor-button-link elementor-button elementor-size-sm elementor-animation-grow" role="button">
+						<span class="elementor-button-content-wrapper">
+							<span class="elementor-button-icon elementor-align-icon-left">
+				<i aria-hidden="true" class="fas fa-play"></i>			</span>
+						<span class="elementor-button-text">Live preview</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/restaurant-menu-app-using-react-js/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Upcoming projects</title>
+		<link>/upcoming-projects/</link>
+					<comments>/upcoming-projects/#respond</comments>
+		
+		<dc:creator><![CDATA[Abhishek]]></dc:creator>
+		<pubDate>Wed, 24 May 2023 16:17:16 +0000</pubDate>
+				<category><![CDATA[upcoming]]></category>
+		<guid isPermaLink="false">/?p=1</guid>
+
+					<description><![CDATA[Exploring Flutter, Devops and AWS Technologies.]]></description>
+										<content:encoded><![CDATA[
+<p>Exploring Flutter, Devops and AWS Technologies.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/upcoming-projects/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
